@@ -1,0 +1,3 @@
+# ALIOSS_PYTHON_SDK
+阿里云OSS服务的SDK
+李林吉开发
